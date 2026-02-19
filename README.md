@@ -17,8 +17,9 @@ While standard YOLOv8 models are excellent general-purpose detectors, this proje
 ## Project Structure
 - `code/`: Contains the source code for detection and inference.
     - `inference.py`: Script to run object detection on images.
-    - `vision.py`: Vision system logic.
     - `train_detector.py`: Training script for the detector.
+    - `prepare_yolo_data.py`: Utility to convert JSON annotations to YOLO format.
+    - `split_manual.py`: Utility to split data into training and validation sets.
 - `runs/`: Contains training runs and model checkpoints.
     - `runs/detect/yolov26s_person_cart/weights/best.pt`: **The primary model weights.**
 - `dataset/`: (Excluded from git) Contains raw training data.
@@ -38,7 +39,7 @@ python code/inference.py
 ```
 
 This script will:
-1.  Load the `yolov26s` weights from the `runs/` directory.
+1.  Load our trained `yolov26s_person_cart` weights from the `runs/` directory.
 2.  Process images from `dataset/yolo_dataset/images/val`.
 3.  Generate annotated images with bounding boxes.
 4.  Save results to `runs/detect/inference_output/`.
