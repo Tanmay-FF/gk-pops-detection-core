@@ -10,6 +10,8 @@ venv/
 .venv/
 
 code/*.py
+code/*.pt
+runs/detect/inference_output/
 
 # Allow only Detection-related scripts
 !code/inference.py

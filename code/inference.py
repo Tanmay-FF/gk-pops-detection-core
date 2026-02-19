@@ -26,7 +26,7 @@ def main():
     
     # Get Images
     image_paths = glob.glob(os.path.join(images_dir, '*.jpg')) + glob.glob(os.path.join(images_dir, '*.png'))
-    image_paths = image_paths[:10] # Limit to 10 for demo speed
+    #image_paths = image_paths[:10] # Limit to 10 for demo speed
     
     print(f"Processing {len(image_paths)} images...")
     
