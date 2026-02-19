@@ -14,13 +14,14 @@ code/*.py
 # Allow only Detection-related scripts
 !code/inference.py
 !code/train_detector.py
-!code/prepare_yolo_data.pyets
+!code/prepare_yolo_data.py
+!code/split_manual.py
 
 # Jupyter Notebook
 .ipynb_checkpoints
 
 # VS Code
 .vscode/
-yolo26n.pt
+
 # Dataset - Exclude large datasets
 dataset/
