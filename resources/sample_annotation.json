@@ -1,0 +1,965 @@
+{
+  "video_info": {
+    "video_name": "2025-06-03 06 08 PM LUCKY 700 PRODUCE DOOR.mp4",
+    "width": 1280,
+    "height": 720,
+    "fps": 20.0,
+    "total_frames": 397,
+    "processing_timestamp": "2025-07-02T16:44:11.716675"
+  },
+  "frames": {
+    "1": {
+      "frame_number": 1,
+      "timestamp": 0.05,
+      "people": {
+        "P1": {
+          "id": 1,
+          "centroid": {
+            "x": 624.0,
+            "y": 426.0
+          },
+          "bbox": {
+            "x1": 557,
+            "y1": 289,
+            "x2": 691,
+            "y2": 563,
+            "width": 134,
+            "height": 274
+          },
+          "motion": {
+            "speed": 0.0,
+            "direction": 0.0,
+            "speed_status": "STATIC",
+            "motion_confidence": 0.0,
+            "acceleration": 0.0
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 624.0,
+                "y": 426.0
+              }
+            ],
+            "speed_history": [
+              0.0
+            ],
+            "num_orb_features": 278,
+            "disappeared_frames": 0,
+            "yolo_confidence": 0.9565404057502747
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_cart_id": null,
+            "link_confidence": 0.0
+          }
+        },
+        "P2": {
+          "id": 2,
+          "centroid": {
+            "x": 200.0,
+            "y": 556.0
+          },
+          "bbox": {
+            "x1": 131,
+            "y1": 450,
+            "x2": 270,
+            "y2": 662,
+            "width": 139,
+            "height": 212
+          },
+          "motion": {
+            "speed": 0.0,
+            "direction": 0.0,
+            "speed_status": "STATIC",
+            "motion_confidence": 0.0,
+            "acceleration": 0.0
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 200.0,
+                "y": 556.0
+              }
+            ],
+            "speed_history": [
+              0.0
+            ],
+            "num_orb_features": 197,
+            "disappeared_frames": 0,
+            "yolo_confidence": 0.9273017644882202
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_cart_id": null,
+            "link_confidence": 0.0
+          }
+        },
+        "P3": {
+          "id": 3,
+          "centroid": {
+            "x": 849.0,
+            "y": 339.0
+          },
+          "bbox": {
+            "x1": 791,
+            "y1": 214,
+            "x2": 907,
+            "y2": 465,
+            "width": 116,
+            "height": 251
+          },
+          "motion": {
+            "speed": 0.0,
+            "direction": 0.0,
+            "speed_status": "STATIC",
+            "motion_confidence": 0.0,
+            "acceleration": 0.0
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 849.0,
+                "y": 339.0
+              }
+            ],
+            "speed_history": [
+              0.0
+            ],
+            "num_orb_features": 245,
+            "disappeared_frames": 0,
+            "yolo_confidence": 0.925061047077179
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_cart_id": null,
+            "link_confidence": 0.7689363232076751
+          }
+        }
+      },
+      "carts": {
+        "C1": {
+          "id": 1,
+          "centroid": {
+            "x": 888.0,
+            "y": 342.0
+          },
+          "bbox": {
+            "x1": 849,
+            "y1": 256,
+            "x2": 927,
+            "y2": 429,
+            "width": 78,
+            "height": 173
+          },
+          "motion": {
+            "speed": 0.0,
+            "direction": 0.0,
+            "speed_status": "STATIC",
+            "motion_confidence": 0.0,
+            "acceleration": 0.0
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 888.0,
+                "y": 342.0
+              }
+            ],
+            "speed_history": [
+              0.0
+            ],
+            "num_orb_features": 104,
+            "disappeared_frames": 0,
+            "yolo_confidence": 0.6109452247619629
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_person_id": null,
+            "link_confidence": 0.7689363232076751
+          }
+        }
+      },
+      "links": {},
+      "statistics": {
+        "total_people": 3,
+        "total_carts": 1,
+        "active_links": 0,
+        "people_disappeared": 0,
+        "carts_disappeared": 0
+      }
+    },
+    "2": {
+      "frame_number": 2,
+      "timestamp": 0.1,
+      "people": {
+        "P1": {
+          "id": 1,
+          "centroid": {
+            "x": 628.0,
+            "y": 425.0
+          },
+          "bbox": {
+            "x1": 565,
+            "y1": 289,
+            "x2": 691,
+            "y2": 562,
+            "width": 126,
+            "height": 273
+          },
+          "motion": {
+            "speed": 33.2642583847046,
+            "direction": 18.70375264564376,
+            "speed_status": "SLOW",
+            "motion_confidence": 0.9384615384615385,
+            "acceleration": 0.0
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 624.0,
+                "y": 426.0
+              },
+              {
+                "x": 628.0,
+                "y": 425.0
+              }
+            ],
+            "speed_history": [
+              0.0,
+              33.2642583847046
+            ],
+            "num_orb_features": 261,
+            "disappeared_frames": 0,
+            "yolo_confidence": 0.9534463882446289
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_cart_id": null,
+            "link_confidence": 0.0
+          }
+        },
+        "P2": {
+          "id": 2,
+          "centroid": {
+            "x": 202.0,
+            "y": 551.0
+          },
+          "bbox": {
+            "x1": 134,
+            "y1": 447,
+            "x2": 270,
+            "y2": 656,
+            "width": 136,
+            "height": 209
+          },
+          "motion": {
+            "speed": 25.449903488159183,
+            "direction": 353.6004411833583,
+            "speed_status": "SLOW",
+            "motion_confidence": 0.9111111111111111,
+            "acceleration": 0.0
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 200.0,
+                "y": 556.0
+              },
+              {
+                "x": 202.0,
+                "y": 551.0
+              }
+            ],
+            "speed_history": [
+              0.0,
+              25.449903488159183
+            ],
+            "num_orb_features": 187,
+            "disappeared_frames": 0,
+            "yolo_confidence": 0.8719691038131714
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_cart_id": null,
+            "link_confidence": 0.5972866435994043
+          }
+        },
+        "P3": {
+          "id": 3,
+          "centroid": {
+            "x": 851.0,
+            "y": 339.0
+          },
+          "bbox": {
+            "x1": 792,
+            "y1": 214,
+            "x2": 911,
+            "y2": 465,
+            "width": 119,
+            "height": 251
+          },
+          "motion": {
+            "speed": 13.044918537139894,
+            "direction": 38.15317131833751,
+            "speed_status": "SLOW",
+            "motion_confidence": 0.9921875,
+            "acceleration": 0.0
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 849.0,
+                "y": 339.0
+              },
+              {
+                "x": 851.0,
+                "y": 339.0
+              }
+            ],
+            "speed_history": [
+              0.0,
+              13.044918537139894
+            ],
+            "num_orb_features": 253,
+            "disappeared_frames": 0,
+            "yolo_confidence": 0.9246452450752258
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_cart_id": null,
+            "link_confidence": 0.7026577994315544
+          }
+        }
+      },
+      "carts": {
+        "C1": {
+          "id": 1,
+          "centroid": {
+            "x": 901.0,
+            "y": 339.0
+          },
+          "bbox": {
+            "x1": 848,
+            "y1": 250,
+            "x2": 955,
+            "y2": 429,
+            "width": 107,
+            "height": 179
+          },
+          "motion": {
+            "speed": 14.905337333679201,
+            "direction": 38.90001135890384,
+            "speed_status": "SLOW",
+            "motion_confidence": 1.0,
+            "acceleration": 0.0
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 888.0,
+                "y": 342.0
+              },
+              {
+                "x": 901.0,
+                "y": 339.0
+              }
+            ],
+            "speed_history": [
+              0.0,
+              14.905337333679201
+            ],
+            "num_orb_features": 237,
+            "disappeared_frames": 0,
+            "yolo_confidence": 0.5789225101470947
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_person_id": null,
+            "link_confidence": 0.7026577994315544
+          }
+        },
+        "C2": {
+          "id": 2,
+          "centroid": {
+            "x": 324.0,
+            "y": 563.0
+          },
+          "bbox": {
+            "x1": 222,
+            "y1": 469,
+            "x2": 427,
+            "y2": 658,
+            "width": 205,
+            "height": 189
+          },
+          "motion": {
+            "speed": 0.0,
+            "direction": 0.0,
+            "speed_status": "STATIC",
+            "motion_confidence": 0.0,
+            "acceleration": 0.0
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 324.0,
+                "y": 563.0
+              }
+            ],
+            "speed_history": [
+              0.0
+            ],
+            "num_orb_features": 391,
+            "disappeared_frames": 0,
+            "yolo_confidence": 0.5152751207351685
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_person_id": null,
+            "link_confidence": 0.5972866435994043
+          }
+        }
+      },
+      "links": {},
+      "statistics": {
+        "total_people": 3,
+        "total_carts": 2,
+        "active_links": 0,
+        "people_disappeared": 0,
+        "carts_disappeared": 0
+      }
+    },
+    "3": {
+      "frame_number": 3,
+      "timestamp": 0.15,
+      "people": {
+        "P1": {
+          "id": 1,
+          "centroid": {
+            "x": 633.0,
+            "y": 420.0
+          },
+          "bbox": {
+            "x1": 576,
+            "y1": 283,
+            "x2": 691,
+            "y2": 558,
+            "width": 115,
+            "height": 275
+          },
+          "motion": {
+            "speed": 90.97214326858523,
+            "direction": 19.961334106000777,
+            "speed_status": "NORMAL",
+            "motion_confidence": 0.9487179487179487,
+            "acceleration": 45.486071634292614
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 624.0,
+                "y": 426.0
+              },
+              {
+                "x": 628.0,
+                "y": 425.0
+              },
+              {
+                "x": 633.0,
+                "y": 420.0
+              }
+            ],
+            "speed_history": [
+              0.0,
+              33.2642583847046,
+              90.97214326858523
+            ],
+            "num_orb_features": 231,
+            "disappeared_frames": 0,
+            "yolo_confidence": 0.940040647983551
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_cart_id": null,
+            "link_confidence": 0.0
+          }
+        },
+        "P2": {
+          "id": 2,
+          "centroid": {
+            "x": 201.0,
+            "y": 553.0
+          },
+          "bbox": {
+            "x1": 145,
+            "y1": 455,
+            "x2": 257,
+            "y2": 652,
+            "width": 112,
+            "height": 197
+          },
+          "motion": {
+            "speed": 71.90760669708253,
+            "direction": 352.21282830870433,
+            "speed_status": "NORMAL",
+            "motion_confidence": 0.7647058823529411,
+            "acceleration": 35.953803348541264
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 200.0,
+                "y": 556.0
+              },
+              {
+                "x": 202.0,
+                "y": 551.0
+              },
+              {
+                "x": 201.0,
+                "y": 553.0
+              }
+            ],
+            "speed_history": [
+              0.0,
+              25.449903488159183,
+              71.90760669708253
+            ],
+            "num_orb_features": 96,
+            "disappeared_frames": 0,
+            "yolo_confidence": 0.5970005989074707
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_cart_id": null,
+            "link_confidence": 0.5524894295531955
+          }
+        },
+        "P3": {
+          "id": 3,
+          "centroid": {
+            "x": 856.0,
+            "y": 338.0
+          },
+          "bbox": {
+            "x1": 796,
+            "y1": 212,
+            "x2": 917,
+            "y2": 465,
+            "width": 121,
+            "height": 253
+          },
+          "motion": {
+            "speed": 34.09204573631287,
+            "direction": 37.842264651469065,
+            "speed_status": "SLOW",
+            "motion_confidence": 0.989010989010989,
+            "acceleration": 17.046022868156435
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 849.0,
+                "y": 339.0
+              },
+              {
+                "x": 851.0,
+                "y": 339.0
+              },
+              {
+                "x": 856.0,
+                "y": 338.0
+              }
+            ],
+            "speed_history": [
+              0.0,
+              13.044918537139894,
+              34.09204573631287
+            ],
+            "num_orb_features": 272,
+            "disappeared_frames": 0,
+            "yolo_confidence": 0.9234434366226196
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_cart_id": null,
+            "link_confidence": 0.7079765613529023
+          }
+        }
+      },
+      "carts": {
+        "C1": {
+          "id": 1,
+          "centroid": {
+            "x": 905.0,
+            "y": 338.0
+          },
+          "bbox": {
+            "x1": 853,
+            "y1": 249,
+            "x2": 958,
+            "y2": 427,
+            "width": 105,
+            "height": 178
+          },
+          "motion": {
+            "speed": 35.38868551254273,
+            "direction": 46.996273254183734,
+            "speed_status": "SLOW",
+            "motion_confidence": 1.0,
+            "acceleration": 17.694342756271364
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 888.0,
+                "y": 342.0
+              },
+              {
+                "x": 901.0,
+                "y": 339.0
+              },
+              {
+                "x": 905.0,
+                "y": 338.0
+              }
+            ],
+            "speed_history": [
+              0.0,
+              14.905337333679201,
+              35.38868551254273
+            ],
+            "num_orb_features": 234,
+            "disappeared_frames": 0,
+            "yolo_confidence": 0.576964259147644
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_person_id": null,
+            "link_confidence": 0.7079765613529023
+          }
+        },
+        "C2": {
+          "id": 2,
+          "centroid": {
+            "x": 324.0,
+            "y": 563.0
+          },
+          "bbox": {
+            "x1": 222,
+            "y1": 469,
+            "x2": 427,
+            "y2": 658,
+            "width": 205,
+            "height": 189
+          },
+          "motion": {
+            "speed": 0.0,
+            "direction": 0.0,
+            "speed_status": "STATIC",
+            "motion_confidence": 0.0,
+            "acceleration": 0.0
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 324.0,
+                "y": 563.0
+              }
+            ],
+            "speed_history": [
+              0.0
+            ],
+            "num_orb_features": 391,
+            "disappeared_frames": 1,
+            "yolo_confidence": 0.5152751207351685
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_person_id": null,
+            "link_confidence": 0.5524894295531955
+          }
+        }
+      },
+      "links": {},
+      "statistics": {
+        "total_people": 3,
+        "total_carts": 2,
+        "active_links": 0,
+        "people_disappeared": 0,
+        "carts_disappeared": 2
+      }
+    },
+    "4": {
+      "frame_number": 4,
+      "timestamp": 0.2,
+      "people": {
+        "P1": {
+          "id": 1,
+          "centroid": {
+            "x": 638.0,
+            "y": 419.0
+          },
+          "bbox": {
+            "x1": 585,
+            "y1": 282,
+            "x2": 691,
+            "y2": 556,
+            "width": 106,
+            "height": 274
+          },
+          "motion": {
+            "speed": 95.60214640617372,
+            "direction": 21.214977230231,
+            "speed_status": "NORMAL",
+            "motion_confidence": 0.9882352941176471,
+            "acceleration": 38.32750782251359
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 624.0,
+                "y": 426.0
+              },
+              {
+                "x": 628.0,
+                "y": 425.0
+              },
+              {
+                "x": 633.0,
+                "y": 420.0
+              },
+              {
+                "x": 638.0,
+                "y": 419.0
+              }
+            ],
+            "speed_history": [
+              0.0,
+              33.2642583847046,
+              90.97214326858523,
+              95.60214640617372
+            ],
+            "num_orb_features": 195,
+            "disappeared_frames": 0,
+            "yolo_confidence": 0.943010151386261
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_cart_id": null,
+            "link_confidence": 0.0
+          }
+        },
+        "P2": {
+          "id": 2,
+          "centroid": {
+            "x": 201.0,
+            "y": 553.0
+          },
+          "bbox": {
+            "x1": 145,
+            "y1": 455,
+            "x2": 257,
+            "y2": 652,
+            "width": 112,
+            "height": 197
+          },
+          "motion": {
+            "speed": 71.90760669708253,
+            "direction": 352.21282830870433,
+            "speed_status": "NORMAL",
+            "motion_confidence": 0.7647058823529411,
+            "acceleration": 29.59132747650147
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 200.0,
+                "y": 556.0
+              },
+              {
+                "x": 202.0,
+                "y": 551.0
+              },
+              {
+                "x": 201.0,
+                "y": 553.0
+              }
+            ],
+            "speed_history": [
+              0.0,
+              25.449903488159183,
+              71.90760669708253
+            ],
+            "num_orb_features": 96,
+            "disappeared_frames": 1,
+            "yolo_confidence": 0.5970005989074707
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_cart_id": null,
+            "link_confidence": 0.5543510878682709
+          }
+        },
+        "P3": {
+          "id": 3,
+          "centroid": {
+            "x": 858.0,
+            "y": 338.0
+          },
+          "bbox": {
+            "x1": 798,
+            "y1": 211,
+            "x2": 919,
+            "y2": 465,
+            "width": 121,
+            "height": 254
+          },
+          "motion": {
+            "speed": 35.581147112846374,
+            "direction": 40.05369119202351,
+            "speed_status": "SLOW",
+            "motion_confidence": 1.0,
+            "acceleration": 14.157068578004838
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 849.0,
+                "y": 339.0
+              },
+              {
+                "x": 851.0,
+                "y": 339.0
+              },
+              {
+                "x": 856.0,
+                "y": 338.0
+              },
+              {
+                "x": 858.0,
+                "y": 338.0
+              }
+            ],
+            "speed_history": [
+              0.0,
+              13.044918537139894,
+              34.09204573631287,
+              35.581147112846374
+            ],
+            "num_orb_features": 267,
+            "disappeared_frames": 0,
+            "yolo_confidence": 0.9261032342910767
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_cart_id": null,
+            "link_confidence": 0.7207850068645687
+          }
+        }
+      },
+      "carts": {
+        "C1": {
+          "id": 1,
+          "centroid": {
+            "x": 905.0,
+            "y": 338.0
+          },
+          "bbox": {
+            "x1": 853,
+            "y1": 249,
+            "x2": 958,
+            "y2": 427,
+            "width": 105,
+            "height": 178
+          },
+          "motion": {
+            "speed": 35.38868551254273,
+            "direction": 46.996273254183734,
+            "speed_status": "SLOW",
+            "motion_confidence": 1.0,
+            "acceleration": 13.968008422851565
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 888.0,
+                "y": 342.0
+              },
+              {
+                "x": 901.0,
+                "y": 339.0
+              },
+              {
+                "x": 905.0,
+                "y": 338.0
+              }
+            ],
+            "speed_history": [
+              0.0,
+              14.905337333679201,
+              35.38868551254273
+            ],
+            "num_orb_features": 234,
+            "disappeared_frames": 1,
+            "yolo_confidence": 0.576964259147644
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_person_id": null,
+            "link_confidence": 0.7207850068645687
+          }
+        },
+        "C2": {
+          "id": 2,
+          "centroid": {
+            "x": 324.0,
+            "y": 563.0
+          },
+          "bbox": {
+            "x1": 222,
+            "y1": 469,
+            "x2": 427,
+            "y2": 658,
+            "width": 205,
+            "height": 189
+          },
+          "motion": {
+            "speed": 0.0,
+            "direction": 0.0,
+            "speed_status": "STATIC",
+            "motion_confidence": 0.0,
+            "acceleration": 0.0
+          },
+          "tracking": {
+            "positions_history": [
+              {
+                "x": 324.0,
+                "y": 563.0
+              }
+            ],
+            "speed_history": [
+              0.0
+            ],
+            "num_orb_features": 391,
+            "disappeared_frames": 2,
+            "yolo_confidence": 0.5152751207351685
+          },
+          "linking": {
+            "is_linked": false,
+            "linked_person_id": null,
+            "link_confidence": 0.5543510878682709
+          }
+        }
+      },
+      "links": {},
+      "statistics": {
+        "total_people": 3,
+        "total_carts": 2,
+        "active_links": 0,
+        "people_disappeared": 1,
+        "carts_disappeared": 2
+      }
+    }
+  }
+}
